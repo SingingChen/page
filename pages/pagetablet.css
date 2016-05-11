@@ -29,7 +29,7 @@
                 color: #f2eb97;}
             header{
                 height: 200px;
-                background-image: url(pic/animal7.jpg);
+                background-image: url(../pic/animal7.jpg);
                 background-size: cover;
                 background-position:center;
             }
